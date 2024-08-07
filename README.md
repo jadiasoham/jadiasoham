@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jadiasoham a passionate learner and educator in realms of physics, python and data science.
-- 👀 I’m interested in exploring the fascinating connections between physics principles, programming and data analysis.
-- 🌱 I’m currently delving into Python for data science, mastering OOP concepts and honing my skills in C, C++, Java and JavaScript.
-- 💞️ I’m looking to collaborate on projects that integrate physics, programming and data analysis to solve real world problems and uncover insights!
-- 📫 Reach me via email at jadiasoham@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/soham-jadia. 
+- 👋 Hi, I’m @jadiasoham, a passionate learner and educator in the realms of physics, Python, and data science.
+- 👀 I’m interested in exploring the fascinating connections between physics principles, programming, and data analysis.
+- 🌱 Currently, I’m working as a Software Engineer in Data Analytics at the Indian Institute of Technology, Bombay, where I’m integrating my love for physics with advanced data analysis techniques.
+- 💞️ I’m excited to collaborate on projects that bridge the gap between physics, programming, and data analytics to solve real-world problems and uncover new insights!
+- 📫 Reach me via email at jadiasoham@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/soham-jadia.
 - ⚡ Fun fact: I once conducted an experiment to demonstrate Newton's laws of motion using nothing but marbles and a skateboard!
 
 <!---
